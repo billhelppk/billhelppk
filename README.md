@@ -1,16 +1,19 @@
-## Hi there 👋
+# BillHelp.pk
 
-<!--
-**billhelppk/billhelppk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Free, simple guides to check your utility bills online in Pakistan: electricity, gas, water and PTCL.
 
-Here are some ideas to get you started:
+- Website: https://billhelp.pk
+- Check electricity bills: https://billhelp.pk/check-bill/electricity
+- Check gas bills: https://billhelp.pk/check-bill/gas
+- Check water bills: https://billhelp.pk/check-bill/water
+- Free bill email alerts: https://billhelp.pk/bill-alerts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BillHelp.pk is an unofficial helper site and is not linked to any utility company.
+
+
+
+
+
+
+
+
